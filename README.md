@@ -4,8 +4,6 @@ Here's a comprehensive GitHub README for your project. This README will help pot
 
 # Loan Approval Prediction Web Application
 
-![Loan Prediction](https://link-to-image-if-you-have-one.com)  <!-- Optional: Add a header image -->
-
 ## Overview
 This project is an end-to-end **Loan Approval Prediction Web Application** designed to provide real-time predictions of loan approval status based on applicant data. Built with **Streamlit** for the web interface, this application allows users to upload datasets, perform data cleaning, select machine learning models for prediction, and visualize model performance. The project was designed to showcase predictive modeling, interactive user interfaces, and practical insights into financial risk analysis.
 
