@@ -1,7 +1,3 @@
-Here's a comprehensive GitHub README for your project. This README will help potential employers, collaborators, or recruiters understand your project and its technical depth.
-
----
-
 # Loan Approval Prediction Web Application
 
 ## Overview
@@ -139,7 +135,3 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-With this README, your GitHub page will effectively showcase your project’s value, technical depth, and potential real-world applications, helping you stand out to recruiters and collaborators!# Loan-Approval-Prediction-Web-Application-Data-Analysis
